@@ -1,8 +1,6 @@
 # Romance-or-Thriller-Movie-Genre-Prediction-from-Audio-Visual-and-Text-Features
 Testing different classification algorithms, experimenting with different features, and conducting a thorough evaluation
 
-==============================================================================================
-==============================================================================================
 This file describes the Programming as part of 
 COMP90049: Introduction to Machine Learning
 Project 2: Movie Genre Prediction Based on Diverse Features and their Relationship with the Performance 
@@ -11,8 +9,6 @@ There are Two various Programing Files
 1. Models.ipynb: consisting of predataprocession steps for all the datasets and implementation of the models
 2. Visualization.ipynb: it is of the Model consisting of learning curve graph of each model.
 ==============================================================================================
-
-======================
 Models.ipynb
 ======================
 Running each cell in Jupter note book of these fuction.
