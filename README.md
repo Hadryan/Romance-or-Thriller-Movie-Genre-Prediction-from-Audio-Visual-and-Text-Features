@@ -8,9 +8,9 @@ Project 2: Movie Genre Prediction Based on Diverse Features and their Relationsh
 There are Two various Programing Files
 1. Models.ipynb: consisting of predataprocession steps for all the datasets and implementation of the models
 2. Visualization.ipynb: it is of the Model consisting of learning curve graph of each model.
-==============================================================================================
-Models.ipynb
-======================
+
+# Models.ipynb
+
 Running each cell in Jupter note book of these fuction.
 
 Funcations:
@@ -27,9 +27,7 @@ a prameter X which should be enterid while calling the function. valid inut of X
 
 5. Then other fuctions are implementation of the models and evaluation of each model.
 
-======================
-Visualization.ipynb
-======================
+# Visualization.ipynb
 
 Running each cell in Jupter note book of these fuction.
 
